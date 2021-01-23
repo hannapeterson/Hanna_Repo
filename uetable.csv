@@ -1,0 +1,219 @@
+,ue rank,country,percentunemployment
+0,1,Cocos (Keeling) Islands,0.1
+1,2,Cambodia,0.3
+2,3,Niger,0.3
+3,4,Laos,0.7
+4,5,Malta,0.78
+5,6,Belarus,0.8
+6,7,Thailand,0.99
+7,8,Benin,1.0
+8,9,Falkland Islands (Islas Malvinas),1.0
+9,10,Gibraltar,1.0
+10,11,Isle of Man,1.1
+11,12,Kuwait,1.1
+12,13,Tonga,1.1
+13,14,Guernsey,1.2
+14,15,United Arab Emirates,1.6
+15,16,Palau,1.7
+16,17,Vanuatu,1.7
+17,18,Madagascar,1.8
+18,19,Macau,2.0
+19,20,Monaco,2.0
+20,21,Tokelau,2.0
+21,22,Faroe Islands,2.2
+22,23,Singapore,2.25
+23,24,Guatemala,2.3
+24,25,Switzerland,2.31
+25,26,Japan,2.36
+26,27,Liechtenstein,2.4
+27,28,Tajikistan,2.4
+28,29,Papua New Guinea,2.5
+29,30,Cuba,2.6
+30,31,Guinea,2.7
+31,32,Rwanda,2.7
+32,33,Czechia,2.8
+33,34,Liberia,2.8
+34,35,British Virgin Islands,2.9
+35,36,Maldives,2.9
+36,37,Hong Kong,2.93
+37,38,Nepal,3.0
+38,39,Seychelles,3.0
+39,40,Denmark,3.05
+40,41,Romania,3.06
+41,42,Vietnam,3.11
+42,43,United Kingdom,3.17
+43,44,Kyrgyzstan,3.18
+44,45,Bhutan,3.2
+45,46,Malaysia,3.3
+46,47,Netherlands,3.41
+47,48,Hungary,3.45
+48,49,Mexico,3.49
+49,50,Bahrain,3.6
+50,51,Iceland,3.62
+51,52,China,3.64
+52,53,Andorra,3.7
+53,54,Norway,3.72
+54,55,Taiwan,3.73
+55,56,"Korea, South",3.76
+56,57,Israel,3.81
+57,58,United States,3.89
+58,59,Bolivia,4.0
+59,60,Burma,4.0
+60,61,Cayman Islands,4.0
+61,62,Jersey,4.0
+62,63,New Zealand,4.13
+63,64,Cameroon,4.3
+64,65,Bangladesh,4.4
+65,66,Timor-Leste,4.4
+66,67,Fiji,4.5
+67,68,Guam,4.5
+68,69,Saint Kitts and Nevis,4.5
+69,70,Russia,4.6
+70,71,Kazakhstan,4.8
+71,72,Sri Lanka,4.83
+72,73,Trinidad and Tobago,4.9
+73,74,Estonia,4.94
+74,75,Ireland,4.98
+75,76,Germany,4.98
+76,77,Moldova,4.99
+77,78,Slovakia,5.0
+78,79,Azerbaijan,5.0
+79,80,Uzbekistan,5.0
+80,81,Dominican Republic,5.1
+81,82,Philippines,5.11
+82,83,Australia,5.16
+83,84,Samoa,5.2
+84,85,Indonesia,5.31
+85,86,Belgium,5.36
+86,87,Luxembourg,5.36
+87,88,Poland,5.43
+88,89,Honduras,5.6
+89,90,Montserrat,5.6
+90,91,Bulgaria,5.66
+91,92,Canada,5.67
+92,93,Paraguay,5.7
+93,94,Ecuador,5.71
+94,95,Eritrea,5.8
+95,96,Albania,5.83
+96,97,Pakistan,6.0
+97,98,Saudi Arabia,6.0
+98,99,Panama,6.14
+99,100,Latvia,6.14
+100,101,Nicaragua,6.4
+101,102,Comoros,6.5
+102,103,Portugal,6.55
+103,104,Peru,6.58
+104,105,Angola,6.6
+105,106,Finland,6.63
+106,107,Mauritius,6.65
+107,108,Sweden,6.78
+108,109,Brunei,6.9
+109,110,Central African Republic,6.9
+110,111,Togo,6.9
+111,112,Venezuela,6.9
+112,113,Bermuda,7.0
+113,114,El Salvador,7.0
+114,115,Cyprus,7.07
+115,116,Chile,7.22
+116,117,Austria,7.35
+117,118,Uruguay,7.6
+118,119,Slovenia,7.64
+119,120,Aruba,7.7
+120,121,Jamaica,7.72
+121,122,Egypt,7.86
+122,123,Mali,7.9
+123,124,Anguilla,8.0
+124,125,Mongolia,8.0
+125,126,Croatia,8.07
+126,127,Costa Rica,8.1
+127,128,San Marino,8.1
+128,129,France,8.12
+129,130,Lithuania,8.4
+130,131,India,8.5
+131,132,Equatorial Guinea,8.6
+132,133,Saint Pierre and Miquelon,8.7
+133,134,Wallis and Futuna,8.8
+134,135,Ukraine,8.89
+135,136,Qatar,8.9
+136,137,Suriname,8.9
+137,138,Belize,9.0
+138,139,Cabo Verde,9.0
+139,140,Greenland,9.1
+140,141,Morocco,9.23
+141,142,Cote d'Ivoire,9.4
+142,143,Uganda,9.4
+143,144,Lebanon,9.7
+144,145,Argentina,9.84
+145,146,Italy,9.88
+146,147,Turks and Caicos Islands,10.0
+147,148,"Bahamas, The",10.1
+148,149,Barbados,10.1
+149,150,Mauritania,10.2
+150,151,Tanzania,10.3
+151,152,Virgin Islands,10.4
+152,153,Colombia,10.5
+153,154,Puerto Rico,10.8
+154,155,Antigua and Barbuda,11.0
+155,156,Turkmenistan,11.0
+156,157,Guyana,11.1
+157,158,Northern Mariana Islands,11.2
+158,159,Zimbabwe,11.3
+159,160,Algeria,11.7
+160,161,Georgia,11.8
+161,162,Iran,11.8
+162,163,Ghana,11.9
+163,164,Brazil,11.93
+164,165,Niue,12.0
+165,166,Sint Maarten,12.0
+166,167,Sao Tome and Principe,12.2
+167,168,Curacao,13.0
+168,169,Cook Islands,13.1
+169,170,Turkey,13.68
+170,171,"Saint Helena, Ascension, and Tristan da Cunha",14.0
+171,172,Serbia,14.1
+172,173,Spain,14.13
+173,174,New Caledonia,14.7
+174,175,Sierra Leone,15.0
+175,176,Zambia,15.0
+176,177,Tunisia,15.5
+177,178,Montenegro,15.82
+178,179,Iraq,16.0
+179,180,"Micronesia, Federated States of",16.2
+180,181,Nigeria,16.5
+181,183,Greece,17.3
+182,184,Ethiopia,17.5
+183,185,Saint Vincent and the Grenadines,18.8
+184,186,Armenia,18.9
+185,187,Jordan,19.1
+186,188,Sudan,19.6
+187,189,Botswana,20.0
+188,190,Saint Lucia,20.0
+189,191,Malawi,20.4
+190,192,French Polynesia,21.8
+191,193,Dominica,23.0
+192,194,Nauru,23.0
+193,195,Afghanistan,23.9
+194,196,Grenada,24.0
+195,197,Mozambique,24.5
+196,198,"Korea, North",25.6
+197,199,Yemen,27.0
+198,200,Gaza Strip,27.9
+199,201,West Bank,27.9
+200,202,Eswatini,28.0
+201,203,Gabon,28.0
+202,204,Lesotho,28.1
+203,205,South Africa,28.53
+204,206,American Samoa,29.8
+205,207,Libya,30.0
+206,208,Kosovo,30.5
+207,209,Kiribati,30.6
+208,210,Bosnia and Herzegovina,33.28
+209,211,Namibia,34.0
+210,212,"Congo, Republic of the",36.0
+211,213,Marshall Islands,36.0
+212,214,Djibouti,40.0
+213,215,Kenya,40.0
+214,216,Haiti,40.6
+215,217,Senegal,48.0
+216,218,Syria,50.0
+217,219,Burkina Faso,77.0
